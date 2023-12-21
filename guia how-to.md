@@ -23,7 +23,7 @@ Informações do responsável financeiro (no caso de contas abertas para jovens 
 
 1.2 - Vai abrir uma página com os campos que você precisa preencher: Nome completo, e-mail e senha
 
-imagem 1
+![image](\banco_tutorial.png)
 
 2. Ative sua conta pelo link de confirmação
 2.1 - Entre na conta de e-mail informada durante o cadastro
@@ -32,7 +32,7 @@ imagem 1
 
 2.3 - Ao final, deve aparecer esta página de entrada na sua conta:
 
-imagem 2
+![image](https://user-images.githubusercontent.com/68241688/182007749-096240e4-c59d-48c6-8a58-f72ec54bdb15.png)
 
 Veja também
 (Modelo de tutorial](https://github.com/anapaulalange/projeto-alura/blob/main/tutorial.md)
