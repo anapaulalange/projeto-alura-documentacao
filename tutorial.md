@@ -45,7 +45,7 @@ Captura de Tela 2023-11-26 às 18 23 05
 
 Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da Bytebank:
 
-![This is an alt text.](/banco_tutorial.png "This is a sample image.")
+!(/banco_tutorial.png "This is a sample image.")
 
 Passo 2: Preencha o formulário de perfil de investidor
 O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
@@ -56,7 +56,7 @@ Moderado	Prefere diversificar mais os produtos, desde baixo risco até alguns de
 Arrojado	Prefere investir em produtos de alto risco, como Ações na Bolsa de Valores
 Você encontra o formulário na seção Investimentos dentro da página inicial da sua conta.
 
-![This is an alt text.](/banco_tutorial2.png "This is a sample image.")
+!(/banco_tutorial2.png "This is a sample image.")
 
 Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000.
