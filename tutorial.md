@@ -50,10 +50,11 @@ imagem 1
 Passo 2: Preencha o formulário de perfil de investidor
 O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
 
-Perfil | Característica
-Conservador	| Prefere investir em produtos de baixo risco, por exemplo Títulos no Tesouro Direto |
-Moderado	| Prefere diversificar mais os produtos, desde baixo risco até alguns de risco um pouco maior, como CDBs |
-Arrojado	| Prefere investir em produtos de alto risco, como Ações na Bolsa de Valores |
+| Perfil  | Característica |
+| ------------- |:-------------:|
+| Conservador      | Prefere investir em produtos de baixo risco, por exemplo Títulos no Tesouro Direto     |
+| Moderado      | Prefere diversificar mais os produtos, desde baixo risco até alguns de risco um pouco maior, como CDBs     |
+| Arrojado      | Prefere investir em produtos de alto risco, como Ações na Bolsa de Valores     |
 Você encontra o formulário na seção Investimentos dentro da página inicial da sua conta.
 
 imagem 2
