@@ -22,4 +22,4 @@ Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de su
 No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto responsável realize a abertura de conta e seja o responsável financeiro.
 
 Crie sua conta
-Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [Como criar sua conta]()
+Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [Como criar sua conta](https://github.com/anapaulalange/projeto-alura/blob/main/URL)
