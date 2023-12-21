@@ -45,7 +45,7 @@ Captura de Tela 2023-11-26 às 18 23 05
 
 Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da Bytebank:
 
-(/banco_tutorial.png "This is a sample image.")
+(\Desktop\imagens\banco_tutorial.png)
 
 Passo 2: Preencha o formulário de perfil de investidor
 O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
