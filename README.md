@@ -6,7 +6,7 @@ Este repositório faz parte do curso de formação de Technical Writing, da Alur
 ## Tipos de documentação
 O curso irá abordar 6 formatos de documentação técnica:
 
-- [Documentação Funcional](https://markdownlivepreview.com/)
+- [Documentação Funcional](https://github.com/anapaulalange/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-funcional.md)
 - Tutorial
 - Guia how-to (How-to guide)
 - Troubleshooting
