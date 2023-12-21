@@ -38,7 +38,7 @@ curl -X GET \
       'https://api.mercadopago.com/v1/payments/search?sort=date_created&criteria=desc&external_reference=ID_REF&range=date_created&begin_date=NOW-30DAYS&end_date=NOW&store_id=47792478&pos_id=58930090'\
        -H 'Content-Type: application/json' \
        -H 'Authorization: Bearer TEST-5774955929875430-051913-25075633b53f75b90ba952251896e9b3-413696175' \
-       
+```       
 Resposta
 Status code	Schema	Description
 200	{ExampleDataType}	Request suceeds.
@@ -91,3 +91,4 @@ Response example
     ]
   }
 ]
+```
