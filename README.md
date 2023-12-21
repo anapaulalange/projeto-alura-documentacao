@@ -6,7 +6,7 @@ Este repositório faz parte do curso de formação de Technical Writing, da Alur
 ## Tipos de documentação
 O curso irá abordar 6 formatos de documentação técnica:
 
-# Documentação Funcional
+Documentação Funcional
 Tutorial
 Guia how-to (How-to guide)
 Troubleshooting
