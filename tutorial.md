@@ -56,7 +56,7 @@ Moderado	Prefere diversificar mais os produtos, desde baixo risco até alguns de
 Arrojado	Prefere investir em produtos de alto risco, como Ações na Bolsa de Valores
 Você encontra o formulário na seção Investimentos dentro da página inicial da sua conta.
 
-Captura de Tela 2023-11-26 às 18 20 56
+![This is an alt text.](/banco_tutorial2.png "This is a sample image.")
 
 Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000.
