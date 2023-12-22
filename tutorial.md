@@ -45,7 +45,7 @@ Captura de Tela 2023-11-26 às 18 23 05
 
 > Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da Bytebank:
 
-![image](https://private-user-images.githubusercontent.com/98783099/285682792-77fd7938-8106-4073-86c0-37023aa705f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyMDQ5ODAsIm5iZiI6MTcwMzIwNDY4MCwicGF0aCI6Ii85ODc4MzA5OS8yODU2ODI3OTItNzdmZDc5MzgtODEwNi00MDczLTg2YzAtMzcwMjNhYTcwNWY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDAwMjQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZDZhOTk2NDUwMTUwOTI4NDYzYTJhOWUwMzkxNTc0MDU1YTFmYzNjZTJhZjFjNTk2NjIxYWE2NjlmOTU5OTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1_peD4-LwtsdgCqVaVVRE5Jb2w771vqp8GXXg8ZIQD8)
+![image](https://global.discourse-cdn.com/nubank/original/4X/1/8/d/18dfa5dc60146652cf067c5065518dc7efde0da3.gif)
 
 Passo 2: Preencha o formulário de perfil de investidor
 O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
