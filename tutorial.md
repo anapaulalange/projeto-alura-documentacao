@@ -58,7 +58,7 @@ O formulário de perfil de investidor é composto de perguntas que ajudam o banc
 
 Você encontra o formulário na seção Investimentos dentro da página inicial da sua conta.
 
-![image](https://s2-techtudo.glbimg.com/i9Mxaiv1gz85QufNhAOBsPsOh84=/0x0:663x695/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/m/b/HVgmJjRCqbZwJVC6dEkQ/print-2019-09-10-20-12-17-34u6s.jpg)
+imagem 2
 
 Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000.
