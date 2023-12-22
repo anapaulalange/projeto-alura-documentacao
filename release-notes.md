@@ -23,8 +23,6 @@ Nesta versão, nós trouxemos melhorias para facilitar o uso do serviço de Inve
 
 - Título do big fix Descrição
 
-:----------------------------------------------------------------------------------------------------------------------------------------:
-
 ### Opcional:
 
 - Issues conhecidas (Known issues): casos de erros inesperados ou que já são de conhecimento da equipe. Neste caso, você pode usar o espaço para informar que esta issue está sendo trabalhada para ser solucionada.
