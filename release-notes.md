@@ -1,6 +1,6 @@
 ## Modelo de Release Notes
 
-## Contexto
+### Contexto
 A Release Notes (em tradução livre, "notas de versão") é uma documentação focada em apresentar as principais mudanças, atualizações e novidades de uma nova release, ou seja, de uma nova versão de um produto/serviço.
 
 ## Exemplo de documentação
@@ -22,6 +22,8 @@ Nesta versão, nós trouxemos melhorias para facilitar o uso do serviço de Inve
 ### Bug fixes:
 
 - Título do big fix Descrição
+
+:----------------------------------------------------------------------------------------------------------------------------------------:
 
 ### Opcional:
 
