@@ -36,14 +36,17 @@ https://api.mercadopago.com/v1/payments
 ```
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
-## Requisição
-# Parâmetros
-| Path do parâmetro	| Tipo	| Obrigatório?	| Descrição
-| sort	| string	| Sim	| Auxilia  na ordenação de uma lista de pagamentos.|
-criteria	| string	| Sim	Ordena o pagamento de maneira ascendente ou descendente.|
-| external_reference	| string	| Sim	| É uma referência externa do pagamento |
-| range	| string	| Sim	| Define o intervalo de busca pelos pagamentos.|
-Exemplo de Requisição
+# Requisição
+## Parâmetros
+
+| Path do parâmetro  | Tipo    | Obrigatório? | Descrição |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| `sort`      | string     |Sim|Auxilia na ordenação de uma lista de pagamentos.|
+| `criteria`     | string     |Sim |Ordena o pagamento de maneira ascendente ou descendente.|
+| `external_reference`      | string     |Sim|É uma referência externa do pagamento|
+|    `range`   | string |Sim |Define o intervalo de busca pelos pagamentos.|
+
+## Exemplo de Requisição
 curl -X GET \
       'https://api.mercadopago.com/v1/payments/search?sort=date_created&criteria=desc&external_reference=ID_REF&range=date_created&begin_date=NOW-30DAYS&end_date=NOW&store_id=47792478&pos_id=58930090'\
        -H 'Content-Type: application/json' \
