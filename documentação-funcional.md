@@ -5,7 +5,7 @@
 A documentação funcional é o tipo de documento que apresenta um produto, funcionalidade ou serviço. Costuma ser uma das primeiras documentações que você acessa em um portal de desenvolvimento porque ela contextualiza o seu produto ao usuário.
 
 ## Exemplo de documentação
-## Bytebank
+# Bytebank
 A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros.
 
 A seguir, você encontra mais informações sobre:
