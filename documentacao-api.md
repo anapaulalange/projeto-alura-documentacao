@@ -36,7 +36,7 @@ https://api.mercadopago.com/v1/payments
 ```
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
-# Requisição
+## Requisição
 ## Parâmetros
 
 | Path do parâmetro  | Tipo    | Obrigatório? | Descrição |
