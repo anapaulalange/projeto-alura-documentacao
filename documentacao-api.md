@@ -55,12 +55,13 @@ curl -X GET \
        -H 'Authorization: Bearer TEST-5774955929875430-051913-25075633b53f75b90ba952251896e9b3-413696175' \
 ````       
 ## Resposta
+
 | Status code	| Schema	| Description |
 | :-------------:|:-------------: |:-------------: |
 | `200`	| {ExampleDataType}	| Request suceeds.|
 | `403`	| {ExampleErrorType}    |    |
-```
-Response example
+
+## Response example
 [
   {
     "paging": {
