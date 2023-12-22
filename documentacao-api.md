@@ -56,7 +56,7 @@ curl -X GET \
 ````       
 ## Resposta
 | Status code	| Schema	| Description |
-| | |
+| :-------------:|:-------------: |:-------------: |
 | `200`	| {ExampleDataType}	| Request suceeds.|
 | `403`	| {ExampleErrorType}    |    |
 ```
