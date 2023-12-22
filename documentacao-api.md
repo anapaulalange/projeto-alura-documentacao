@@ -59,7 +59,7 @@ curl -X GET \
 | Status code	| Schema	| Description |
 | :-------------:|:-------------: |:-------------: |
 | `200`	| [{ExampleDataType}]()	| Request suceeds.|
-| `403`	| [{ExampleErrorType}]()    |    |
+| `403`	| [{ExampleErrorType}]()    |  Forbidden  |
 
 ### Response example
 ```
