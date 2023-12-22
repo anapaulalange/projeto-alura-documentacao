@@ -14,7 +14,7 @@ Use as APIs da Bytebank para se integrar ao checkout da sua loja e processe paga
 curl -H ‘Authorization: Bearer <ENV_ACCESS_TOKEN>’  \
 https://api.mercadopago.com/V1/payments
 ````
-Pagamentos
+## Pagamentos
 É o recurso que permite você criar, obter ou gerenciar os pagamentos da sua loja virtual integrada aos serviços financeiros da Bytebank.
 
 URL base para as chamadas
@@ -31,8 +31,8 @@ https://api.mercadopago.com/v1/payments
 | GET      | Obter pagamentos     |Consulte todas as informações de um pagamento através de um `id` .|
 |    PUT   | Atualizar pagamentos |Atualiza alguma informação de um determinado pagamento |
 
-## Buscar em pagamentos
-## Endpoint
+### Buscar em pagamentos
+### Endpoint
 ```
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
