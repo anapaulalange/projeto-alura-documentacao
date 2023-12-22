@@ -10,7 +10,7 @@ A Release Notes (em tradução livre, "notas de versão") é uma documentação 
 
 Nesta versão, nós trouxemos melhorias para facilitar o uso do serviço de Investimentos e corrigimos bugs no carregamento do aplicativo.
 
-## Novas funcionalidades:
+### Novas funcionalidades:
 
 - Feature 1: Galeria de investimentos com todos produtos disponíveis para você adquirir para sua carteira.
 - Feature 2: Opção de ativar lembrete quando um título está próximo do vencimento.
