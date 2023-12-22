@@ -45,7 +45,7 @@ Captura de Tela 2023-11-26 às 18 23 05
 
 Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da Bytebank:
 
-![image](https://www.cedrotech.com/wp-content/uploads/2022/12/abertura-de-conta-online-reducao-das-barreiras-entre-bancos-e-clientes.jpg)
+![image](https://private-user-images.githubusercontent.com/98783099/285682634-a461076c-51d2-4df5-aaa4-cf23a0e44a41.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyMDQ5ODAsIm5iZiI6MTcwMzIwNDY4MCwicGF0aCI6Ii85ODc4MzA5OS8yODU2ODI2MzQtYTQ2MTA3NmMtNTFkMi00ZGY1LWFhYTQtY2YyM2EwZTQ0YTQxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDAwMjQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhMjAyYWY0MGVjMmQ4YmNmMmEyNTZkMTMyMTNmMGE0OTk3YjVmMmI3NGU3ZDQyYzE2YWU0YjBkMWVhNzYzNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.b7NcJrPtNbPfn-Q5r7FArJhQgXBAPCCsvKYY36UcNtg)
 
 Passo 2: Preencha o formulário de perfil de investidor
 O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
@@ -58,7 +58,7 @@ O formulário de perfil de investidor é composto de perguntas que ajudam o banc
 
 Você encontra o formulário na seção Investimentos dentro da página inicial da sua conta.
 
-imagem 2
+![image](https://private-user-images.githubusercontent.com/98783099/285682792-77fd7938-8106-4073-86c0-37023aa705f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyMDQ5ODAsIm5iZiI6MTcwMzIwNDY4MCwicGF0aCI6Ii85ODc4MzA5OS8yODU2ODI3OTItNzdmZDc5MzgtODEwNi00MDczLTg2YzAtMzcwMjNhYTcwNWY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDAwMjQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZDZhOTk2NDUwMTUwOTI4NDYzYTJhOWUwMzkxNTc0MDU1YTFmYzNjZTJhZjFjNTk2NjIxYWE2NjlmOTU5OTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1_peD4-LwtsdgCqVaVVRE5Jb2w771vqp8GXXg8ZIQD8)
 
 Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000.
