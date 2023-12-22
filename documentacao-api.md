@@ -31,6 +31,8 @@ https://api.mercadopago.com/v1/payments
 | GET      | Obter pagamentos     |Consulte todas as informações de um pagamento através de um `id` .|
 |    PUT   | Atualizar pagamentos |Atualiza alguma informação de um determinado pagamento |
 
+## Buscar em pagamentos
+## Endpoint
 ```
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
