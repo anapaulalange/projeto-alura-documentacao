@@ -29,7 +29,7 @@ Informações do responsável financeiro (no caso de contas abertas para jovens 
 * 2.2 - Veja se o e-mail com o assunto Ative sua conta Bytebank chegou e abra o link que aparece nele
 * 2.3 - Ao final, deve aparecer esta página de entrada na sua conta:
 
-![image]()
+imagem 2
 
 Veja também
 [Modelo de tutorial](https://github.com/anapaulalange/projeto-alura/blob/main/tutorial.md)
