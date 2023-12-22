@@ -37,7 +37,7 @@ https://api.mercadopago.com/v1/payments
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
 ## Requisição
-## Parâmetros
+### Parâmetros
 
 | Path do parâmetro  | Tipo    | Obrigatório? | Descrição |
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -46,7 +46,7 @@ https://api.mercadopago.com/v1/payments
 | `external_reference`      | string     |Sim|É uma referência externa do pagamento|
 |    `range`   | string |Sim |Define o intervalo de busca pelos pagamentos.|
 
-## Exemplo de Requisição
+### Exemplo de Requisição
 
 ````
 curl -X GET \
@@ -54,14 +54,14 @@ curl -X GET \
        -H 'Content-Type: application/json' \
        -H 'Authorization: Bearer TEST-5774955929875430-051913-25075633b53f75b90ba952251896e9b3-413696175' \
 ````       
-## Resposta
+### Resposta
 
 | Status code	| Schema	| Description |
 | :-------------:|:-------------: |:-------------: |
 | `200`	| {ExampleDataType}	| Request suceeds.|
 | `403`	| {ExampleErrorType}    |    |
 
-## Response example
+### Response example
 ```
 [
   {
