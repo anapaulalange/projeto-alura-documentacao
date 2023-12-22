@@ -4,7 +4,8 @@
 O Guia de Início Rápido (Quick Start Guide) é uma documentação que explica como começar a usar um produto ou serviço de maneira rápida e objetiva. Diferente de um Getting Started, o Quick Start - como o nome sugere - não se preocupa em contextualizar estes primeiros passos do usuário com um produto, mas sim em apresentar objetivamente o que precisa ser feito.
 
 ## Exemplo de documentação
-Iniciando seus investimentos na Bytebank
+
+# Iniciando seus investimentos na Bytebank
 Visão Geral
 Este guia rápido vai te orientar no seguinte processo:
 
