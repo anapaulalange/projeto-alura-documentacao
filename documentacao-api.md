@@ -58,8 +58,8 @@ curl -X GET \
 
 | Status code	| Schema	| Description |
 | :-------------:|:-------------: |:-------------: |
-| `200`	| {ExampleDataType}	| Request suceeds.|
-| `403`	| {ExampleErrorType}    |    |
+| `200`	| [{ExampleDataType}]()	| Request suceeds.|
+| `403`	| [{ExampleErrorType}]()    |    |
 
 ### Response example
 ```
