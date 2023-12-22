@@ -22,14 +22,15 @@ URL base para as chamadas
 https://api.mercadopago.com/v1/payments
 ```
 
-Endpoints
-Método	Nome do endpoint	Descrição
-POST	Criar pagamento	Cria um novo pagamento a ser processado
-GET	Buscar em pagamentos	Pesquisa por todos os pagamentos realizados
-GET	Obter pagamento	Consulte todas as informações de um pagamento através de um id .
-PUT	Atualizar pagamentos	Atualiza alguma informação de um determinado pagamento
-## Buscar em pagamentos
-## Endpoint
+## Endpoints
+
+| Método  | Nome do endpoint    | Descrição |
+| ------------- |:-------------:|:-------------:|
+| POST      | Criar pagamento     |Cria um novo pagamento a ser processado|
+| GET     | Buscar em pagamentos     |Pesquisa por todos os pagamentos realizados|
+| GET      | Obter pagamentos     |Consulte todas as informações de um pagamento através de um `id` .|
+|    PUT   | Atualizar pagamentos |Atualiza alguma informação de um determinado pagamento |
+
 ```
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
