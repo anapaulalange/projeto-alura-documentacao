@@ -62,6 +62,7 @@ curl -X GET \
 | `403`	| {ExampleErrorType}    |    |
 
 ## Response example
+```
 [
   {
     "paging": {
