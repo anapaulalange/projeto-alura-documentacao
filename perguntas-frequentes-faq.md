@@ -1,8 +1,8 @@
-## Perguntas Frequentes - FAQ
+# Bytebank
 
 Aqui você tira suas dúvidas sobre emissão de boletos, pagamentos e abertura de conta.
 
-# Perguntas Frequentes (FAQ)
+## Perguntas Frequentes (FAQ)
 
 ## Abertura de conta
 1. O que é a Bytenbank?
