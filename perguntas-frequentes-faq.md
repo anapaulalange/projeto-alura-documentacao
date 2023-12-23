@@ -15,5 +15,15 @@ Não, a criação de conta na Bytebank é gratuita.
 Você pode criar sua conta na Bytebank seguindo as instruções da nossa documentação.
 
 ## Pagamentos
+1. O que é a Bytenbank?
+A Bytebank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros, que oferece serviços de cartão de crédito ou débito, investimentos e gestão financeira através de um aplicativo (disponível para iOS e Android) e site.
+
+2. Existe custo para criar minha conta?
+Não, a criação de conta na Bytebank é gratuita.
 
 ## Emissão de boleto
+1. O que é a Bytenbank?
+A Bytebank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros, que oferece serviços de cartão de crédito ou débito, investimentos e gestão financeira através de um aplicativo (disponível para iOS e Android) e site.
+
+2. Existe custo para criar minha conta?
+Não, a criação de conta na Bytebank é gratuita.
