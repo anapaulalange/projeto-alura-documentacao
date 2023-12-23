@@ -6,25 +6,25 @@ O Guia de Início Rápido (Quick Start Guide) é uma documentação que explica 
 ## Exemplo de documentação
 
 # Iniciando seus investimentos na Bytebank
-Visão Geral
+## Visão Geral
 Este guia rápido vai te orientar no seguinte processo:
 
-Adquirir seu primeiro investimento na Bytebank
-Antes de começar
-Certifique-se de que você atende aos pré-requisitos:
+- Adquirir seu primeiro investimento na Bytebank
+- Antes de começar
+- Certifique-se de que você atende aos pré-requisitos:
 
 ## Conta na Bytebank
-Dinheiro disponível em conta
-Comece a investir
+
+### Dinheiro disponível em conta
+##Comece a investir
 Passo 1: Acesse a seção Investimentos
-Abra seu aplicativo na Bytebank e vá até a seção Início
-Selecione a opção Investimentos
+- Abra seu aplicativo na Bytebank e vá até a seção Início
+- Selecione a opção Investimentos
 Passo 2: Selecione o investimento que quer adquirir
-Na tela inicial, selecione a categoria de investimento que deseja
-
+- Na tela inicial, selecione a categoria de investimento que deseja
 Passo 3: Preencha as informações
-Preencha os campos com seus dados pessoais, valor que deseja investir e período de resgate. Feito isso, selecione a opção "Investir"
+- Preencha os campos com seus dados pessoais, valor que deseja investir e período de resgate. Feito isso, selecione a opção "Investir"
 
-Próximos Passos
+## Próximos Passos
 Conheça sugestões de investimentos para diversificar sua carteira
-Fale com seu consultor Bytebank
+[Fale com seu consultor Bytebank](https://conta.uol.com.br/login?t=uol_webmail&env=visitante&dest=https://mail.uol.com.br/login/check_session)
