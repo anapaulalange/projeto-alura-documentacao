@@ -15,7 +15,7 @@ Este guia rápido vai te orientar no seguinte processo:
 
 ## Conta na Bytebank
 
-### Dinheiro disponível em conta
+### Dinheiro disponível em conta 💰
 ## Comece a investir
 
 Passo 1: Acesse a seção Investimentos
