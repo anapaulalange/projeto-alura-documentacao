@@ -31,7 +31,8 @@ Para visualizar os comprovantes dos pagamentos que você realizou, acesse o App 
 Depois, é só localizar o comprovante desejado, selecionar e clicar em Salvar em PDF ou Imprimir.
 
 3. Como emitir a segunda via de um boleto Bytebank?
-Emitir a segunda via de um boleto Safra é simples:
+
+Emitir a segunda via de um boleto Bytebank é simples:
 
 - Acesse nossa página de [2ª via de boletos]()
 - Clique na opção de boleto que precisa (CDC, Leasing e outros)
