@@ -14,7 +14,7 @@ Você pode criar sua conta na Bytebank seguindo as instruções da nossa documen
 
 ## Emissão de boleto
 1. Meu boleto venceu. Como faço para atualizá-lo?
-Caso seu boleto tenha vencido, você precisará emitir uma 2ª via. O vencimento será atualizado para a data da emissão. Para emitir a 2ª via do seu boleto, [clique aqui](https://www.ib12.bradesco.com.br/ibpfsegundaviaboleto/segundaViaBoletoPesquisarLinhaDigitavel.do).
+Caso seu boleto tenha vencido, você precisará emitir uma 2ª via. O vencimento será atualizado para a data da emissão. Para emitir a 2ª via do seu boleto, [emissão 2ª via do boleto](https://www.ib12.bradesco.com.br/ibpfsegundaviaboleto/segundaViaBoletoPesquisarLinhaDigitavel.do).
 
 2. Como imprimir o comprovante do boleto pago?
 Para visualizar os comprovantes dos pagamentos que você realizou, acesse o App do Bytebank ou o Internet Banking > Serviços > Comprovantes. Depois, é só localizar o comprovante desejado, selecionar e clicar em Salvar em PDF ou Imprimir.
