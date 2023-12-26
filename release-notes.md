@@ -21,7 +21,8 @@ Nesta versão, nós trouxemos melhorias para facilitar o uso do serviço de Inve
   
 ### Bug fixes:
 
-- Título do big fix Descrição
+- Título do bug fix
+- Descrição
 
 ### Opcional:
 
