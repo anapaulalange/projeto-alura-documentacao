@@ -5,11 +5,11 @@ O tutorial é uma documentação orientada a tarefas com objetivo de instruir o 
 
 Existem 2 possíveis abordagens para tutoriais
 
-Fornecer as orientações para uma funcionalidade ou configuração específica For providing a walkthrough of a particular feature.
-Fornecer as orientações para que o usuário complete um pequeno projeto. Exemplo: realizar o deploy de uma biblioteca do zero.
+1. Fornecer as orientações para uma funcionalidade ou configuração específica For providing a walkthrough of a particular feature.
+2. Fornecer as orientações para que o usuário complete um pequeno projeto. Exemplo: realizar o deploy de uma biblioteca do zero.
 Exemplo de documentação
-Crie uma conta na Bytebank
-Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
+### Crie uma conta na Bytebank
+> Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
 
 ## Visão Geral
 Ter uma conta é o primeiro passo para iniciar a gestão das suas finanças com os serviços da Bytebank. A partir dela, você poderá acessar os produtos de investimento, realizar transações sem taxas e solicitar um cartão com função dupla de crédito ou débito.
