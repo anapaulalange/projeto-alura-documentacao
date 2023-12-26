@@ -10,7 +10,8 @@ Resolva um problema
 Seja flexível, ou seja, leve em conta possíveis casos de uso
 Elimine informações que não forem necessárias
 Escolha títulos objetivos e que evitem má interpretação
-Exemplo de documentação
+
+## Exemplo de documentação
 Como criar uma conta na Bytebank
 ### Pré-requisitos
 Antes de iniciar, tenha certeza de que você tem:
