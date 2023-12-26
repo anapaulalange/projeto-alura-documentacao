@@ -19,7 +19,7 @@ Antes de iniciar, tenha certeza de que você tem:
 Documento com foto (RG ou CNH)
 Comprovante de residência
 Informações do responsável financeiro (no caso de contas abertas para jovens entre 16 e 18 anos)
-* 1.0 Realize o cadastro
+* 1.0 - Realize o cadastro
 * 1.1 - Abra o aplicativo da Bytebank e selecione a opção Abrir minha conta
 * 1.2 - Vai abrir uma página com os campos que você precisa preencher: Nome completo, e-mail e senha
 
