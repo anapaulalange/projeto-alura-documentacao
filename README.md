@@ -14,3 +14,5 @@ O curso irá abordar 6 formatos de documentação técnica:
 - [Release Notes](https://github.com/anapaulalange/projeto-alura/blob/main/release-notes.md)
 - [Guia de Início Rápido (Quick Start Guide)](https://github.com/anapaulalange/projeto-alura/blob/main/guia-inicio-rapido.md)
 - [Perguntas frequentes (FAQ)](https://github.com/anapaulalange/projeto-alura/blob/main/perguntas-frequentes-faq.md)
+
+- Link da documentação publicada no [GitBook](https://langes-organization.gitbook.io/bytebank/).
